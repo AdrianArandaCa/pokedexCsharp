@@ -1,0 +1,14 @@
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\bin\Debug\PokedexWebService.exe.config
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\bin\Debug\PokedexWebService.exe
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\bin\Debug\PokedexWebService.pdb
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.csproj.AssemblyReference.cache
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.csproj.SuggestedBindingRedirects.cache
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.Properties.Resources.resources
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.View.Form1.resources
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.csproj.GenerateResource.cache
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.csproj.CoreCompileInputs.cache
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.csproj.CopyComplete
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.exe
+C:\Users\prova\Dropbox\IES CARLES VALLBONA\2oDAM\M9 Programació de Serveis i Processos\UF3\PokedexWebService\PokedexWebService\obj\Debug\PokedexWebService.pdb
